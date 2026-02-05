@@ -893,7 +893,7 @@ See [COMMON_PITFALLS.md](../COMMON_PITFALLS.md) - Section "API & TanStack Query 
 
 ## 🎯 What's Next?
 
-Once API integration works, move on to [Step 5: Authentication](./step-05-authentication.md) where you'll add Firebase Auth and protect routes.
+Once API integration works, move on to **Step 5: Authentication** where you'll add Firebase Auth and protect routes. *(Step 5 guide to be created - refer to TRAINING_PLAN.md for overview)*
 
 ---
 

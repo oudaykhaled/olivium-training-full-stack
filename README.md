@@ -70,7 +70,7 @@ docker >= 20.x
 | [Step 1](./steps/step-01-tooling.md) | Tooling + Baseline App | 2 days | ⭐⭐ |
 | [Step 2](./steps/step-02-routing.md) | Routing + Layout | 2 days | ⭐⭐ |
 | [Step 3](./steps/step-03-module-federation.md) | Module Federation | 1 day | ⭐⭐⭐ |
-| Step 4 | API Client + TanStack Query | 2 days | ⭐⭐ |
+| [Step 4](./steps/step-04-api-client.md) | API Client + TanStack Query | 2 days | ⭐⭐ |
 | Step 5 | Authentication (Firebase) | 2 days | ⭐⭐ |
 | Step 6 | Booking Flow | 3 days | ⭐⭐⭐ |
 | Step 7 | Staff Dashboard | 2 days | ⭐⭐ |

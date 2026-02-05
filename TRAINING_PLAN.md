@@ -112,14 +112,14 @@ Each step has a dedicated guide with:
 | 2 | Routing + Layout | [step-02-routing.md](./steps/step-02-routing.md) | 2 days |
 | 3 | Module Federation | [step-03-module-federation.md](./steps/step-03-module-federation.md) | 1 day |
 | 4 | API Client + TanStack Query | [step-04-api-client.md](./steps/step-04-api-client.md) | 2 days |
-| 5 | Authentication | [step-05-authentication.md](./steps/step-05-authentication.md) | 2 days |
-| 6 | Booking Flow | [step-06-booking-flow.md](./steps/step-06-booking-flow.md) | 3 days |
-| 7 | Staff Dashboard | [step-07-staff-dashboard.md](./steps/step-07-staff-dashboard.md) | 2 days |
-| 8 | Admin Panel | [step-08-admin-panel.md](./steps/step-08-admin-panel.md) | 3 days |
-| 9 | Performance | [step-09-performance.md](./steps/step-09-performance.md) | 2 days |
-| 10 | Testing | [step-10-testing.md](./steps/step-10-testing.md) | 4 days |
-| 11 | Docker + Proxy | [step-11-docker-deployment.md](./steps/step-11-docker-deployment.md) | 3 days |
-| 12 | Real-time (Stretch) | [step-12-websocket.md](./steps/step-12-websocket.md) | 2 days |
+| 5 | Authentication | *(Guide to be created)* | 2 days |
+| 6 | Booking Flow | *(Guide to be created)* | 3 days |
+| 7 | Staff Dashboard | *(Guide to be created)* | 2 days |
+| 8 | Admin Panel | *(Guide to be created)* | 3 days |
+| 9 | Performance | *(Guide to be created)* | 2 days |
+| 10 | Testing | *(Guide to be created)* | 4 days |
+| 11 | Docker + Proxy | *(Guide to be created)* | 3 days |
+| 12 | Real-time (Stretch) | *(Guide to be created)* | 2 days |
 
 ---
 
