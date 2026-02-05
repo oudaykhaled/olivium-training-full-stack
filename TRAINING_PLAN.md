@@ -125,27 +125,27 @@ Each step has a dedicated guide with:
 
 ## 📖 Supporting Documentation
 
-### Core References
+### Core References (Available)
 - **[Data Models & DTOs](./DATA_MODELS.md)** - Complete type definitions
 - **[API Contract](./API_CONTRACT.md)** - OpenAPI specification and endpoints
-- **[Component Library](./COMPONENT_LIBRARY.md)** - Shared UI components guide
-- **[State Management Strategy](./STATE_MANAGEMENT.md)** - Query keys, caching, invalidation
+- **Component Library** *(Optional - to be created)* - Shared UI components guide
+- **State Management Strategy** *(Optional - to be created)* - Query keys, caching, invalidation
 
-### Best Practices
-- **[TypeScript Guidelines](./TYPESCRIPT_GUIDELINES.md)** - Strict typing patterns
-- **[Testing Strategy](./TESTING_STRATEGY.md)** - What, when, and how to test
-- **[Performance Best Practices](./PERFORMANCE.md)** - Optimization techniques
-- **[Security Checklist](./SECURITY.md)** - Auth, validation, XSS prevention
+### Best Practices (Optional - to be created as needed)
+- **TypeScript Guidelines** - Strict typing patterns
+- **Testing Strategy** - What, when, and how to test
+- **Performance Best Practices** - Optimization techniques
+- **Security Checklist** - Auth, validation, XSS prevention
 
-### Troubleshooting
+### Troubleshooting (Available)
 - **[Common Pitfalls](./COMMON_PITFALLS.md)** - Mistakes to avoid
 - **[Tips & Tricks](./TIPS_AND_TRICKS.md)** - Pro techniques
-- **[Debugging Guide](./DEBUGGING.md)** - How to troubleshoot issues
-- **[Module Federation FAQ](./MODULE_FEDERATION_FAQ.md)** - MFE-specific problems
+- **Debugging Guide** *(Optional - to be created)* - How to troubleshoot issues
+- **Module Federation FAQ** *(Optional - to be created)* - MFE-specific problems
 
-### Evaluation
+### Evaluation (Available)
 - **[Evaluation Rubric](./EVALUATION_RUBRIC.md)** - How your work will be assessed
-- **[Code Review Checklist](./CODE_REVIEW_CHECKLIST.md)** - Self-review guide
+- **Code Review Checklist** *(Optional - to be created)* - Self-review guide
 
 ---
 
